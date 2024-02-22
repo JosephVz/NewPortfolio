@@ -30,7 +30,7 @@ export const Navbar = () => {
             <a href="#about">About</a>
           </li>
           <li>
-            <a href="#experience">projects</a>
+            <a href="https://profile.indeed.com/resume">Resume</a>
           </li>
           <li>
             <a href="#projects">Projects</a>
