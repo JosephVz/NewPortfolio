@@ -66,6 +66,10 @@
   font-size: 25px;
 }
 
+a {
+  color: var(--color-text);
+}
+
 @media screen and (max-width: 830px) {
   .container {
     background-color: transparent;
